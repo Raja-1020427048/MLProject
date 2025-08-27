@@ -27,4 +27,6 @@ step 1: create a repo on github
 19:
 
 
+https://github.com/krishnaik06/mlproject.git
+
 
