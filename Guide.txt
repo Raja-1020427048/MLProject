@@ -22,8 +22,8 @@ step 1: create a repo on github
 16:  run pip install -r requirements.txt    .It will create the folder MLProject.egg-info.  before running this command you should be in (C:\users\rmd24\Files_storage1\MLProject\venv) for this run conda activate venv/ 
 
 
-17: 
-18:
+17: create components and pipeline folder and create files init
+18:run python src/logger.py 
 19:
 
 
