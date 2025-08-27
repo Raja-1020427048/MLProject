@@ -1,0 +1,30 @@
+step 1: create a repo on github
+2: create a folder on pc and open it in vs code
+3: run the command "conda create -p venv python==3.12.7 -y"
+4: clear for clearing the cmd 
+5:run 'conda activate venv/'
+6: run git init 
+7: run git add README.md
+
+8: git commit -m "First commit"
+8_A: git status
+9: git branch -M main
+10: git remote add origin " repo link"
+10-A: git remote -v 
+10-B: git config --global user.email
+11:git push -u origin main 
+12: create a .gitignore file on github by clicking add file and choose python for gitignore file 
+
+13: run  git pull
+14:set the setup.py and requirements files 
+
+15:create the __init__.py file
+16:  run pip install -r requirements.txt    .It will create the folder MLProject.egg-info.  before running this command you should be in (C:\users\rmd24\Files_storage1\MLProject\venv) for this run conda activate venv/ 
+
+
+17: 
+18:
+19:
+
+
+
